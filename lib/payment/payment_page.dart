@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:orballe/Home/homepage.dart';
+import 'package:orballe/Home/homePage.dart';
 import 'package:orballe/contentPlanner/content_planner.dart';
 import 'package:orballe/analytics/analytics_page.dart';
 import 'package:orballe/brandDeals/brand_deals_page.dart';
